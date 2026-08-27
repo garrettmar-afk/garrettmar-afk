@@ -20,7 +20,7 @@ Then paste this into the README:
 # Hi, I'm Garrett Mar 👋
 
 **Data Analytics & AI Fellow | Business Operations Strategist**
-📍 Los Angeles, CA | Open to Relocated
+📍 LA Metropolitan, CA | Open to Relocated
 
 ---
 
