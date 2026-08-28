@@ -1,18 +1,4 @@
-**2. Pinned Repositories**
-
-Go to your profile and click **"Customize your pins"** at the top. Select up to 6 repos. Based on what we've worked on, pin these:
-
-- `oaqjp-final-project-emb-ai` — the IBM Emotion Detector
-- Any King County or TechFlow project repos if you pushed them
-- Anything else you've built at TKH
-
----
-
-**3. README Profile Page**
-
-Go to GitHub and create a new repository. Name it exactly **`garrettmar-afk`** — same as your username. Make it public, and check "Add a README file" when creating it.
-
-Then paste this into the README:
+README:
 
 ---
 
