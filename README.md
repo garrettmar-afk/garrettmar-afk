@@ -6,15 +6,17 @@ README:
 # Hi, I'm Garrett Mar 👋
 
 **Data Analytics & AI Fellow | Business Operations Strategist**
-📍 LA Metropolitan, CA | Open to Relocated
+📍 LA Metropolitan, CA | Open to Relocate
 
 ---
 
 ## About Me
-I'm a data analytics and AI fellow at The Knowledge House with 7+ years of experience 
-managing $200M+ contract portfolios at Boeing and The Cheesecake Factory. I'm transitioning 
-into AI consulting and data science — combining operational rigor with technical skills 
-in Python, machine learning, and data visualization.
+Data Analytics & AI Fellow at The Knowledge House | Transitioning into AI Consulting & Data Science
+
+- 7+ years managing $200M+ contract portfolios at Boeing and The Cheesecake Factory
+- Building hands-on expertise in Python, machine learning, and data visualization
+- Combining operational rigor with emerging AI and analytics skills
+- Open to Data Analyst, AI Consultant, or Business Analyst roles
 
 ---
 
@@ -23,18 +25,18 @@ in Python, machine learning, and data visualization.
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools:** Jupyter Notebook, Git, GitHub, VS Code
 - **Concepts:** Machine Learning, Data Cleaning, EDA, Linear Regression, Ridge Regression
+- **Soft Skills:** Communication, Cross-Functional Collaboration, Negotiation, Stakeholder Management, Problem-Solving, Data Storytelling, Adaptability, Attention to Detail
 
 ---
 
 ## 📌 Featured Projects
-- **IBM Emotion Detector** — Flask app using Watson NLP to detect emotions from text
-- **King County House Sales** — ML project predicting house prices using regression models
-- **TechFlow Data Analysis** — End-to-end Python analysis of customer support call data
-- **MegaMart Visualization** — Data cleaning and visualization with Pandas and Matplotlib
+- **[Northstar Support Multi-Agent Orchestrator](https://github.com/garrettmar-afk/A_TEPP_2)** — LangChain agents that triage, draft, and review support tickets
+- **[TechFlow Support Call Analytics](https://github.com/garrettmar-afk/techflow-support-call-analytics)** — Python analysis of call center data with staffing recommendations
+- **[Camera Store Inventory Agent](https://github.com/garrettmar-afk/camera-store-inventory-agent)** — Tool-calling AI agent that flags low stock and reorder needs
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Garrett%20Mar-blue)](https://www.linkedin.com/in/garrett-mar-426924106/)
+(https://www.linkedin.com/in/garrett-mar-426924106/)
 ```
 
