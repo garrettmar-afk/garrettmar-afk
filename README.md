@@ -33,6 +33,6 @@ Data Analytics & AI Fellow at The Knowledge House | Transitioning into AI Consul
 ---
 
 ## 📫 Connect With Me
-(https://www.linkedin.com/in/garrett-mar-426924106/)
+https://www.linkedin.com/in/garrett-mar-426924106/
 ```
 
