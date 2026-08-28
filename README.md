@@ -1,7 +1,3 @@
-README:
-
----
-
 ```markdown
 # Hi, I'm Garrett Mar 👋
 
